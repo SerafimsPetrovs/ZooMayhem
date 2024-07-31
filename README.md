@@ -1,10 +1,21 @@
-# ZooMayhem Game
+# ZooMayhem Game Beta 1.0
+![ZooMayhem Start Image](Resources/start.jpg)
 
 **ZooMayhem** is a text-based game where you manage a zoo and make decisions about feeding animals, hiring staff, and expanding your zoo. The game is built using C# and runs on the .NET framework.
 
+> **_Note: This game is in the early stages of development. Many bugs are already known, and ongoing work will include adding numerous events, reworking game mechanics, redesigning the interface, and fixing bugs. Expect features to be added and improvements to be made over time._**
+
 ## Getting Started
 
-To get started with the game, you can clone this repository and open the solution file in Visual Studio. From there, you can build and run the game.
+To get started with the game, you have two options:
+
+1. **Build from Source:**
+   - Clone this repository and open the solution file in Visual Studio.
+   - Build and run the game from the IDE.
+
+2. **Quick Start:**
+   - For a faster setup, you can download the precompiled executable file: ***ZooMayhem.exe***.
+   - Simply run the executable to start playing. **(God save the compiler!)**
 
 ## Gameplay
 
@@ -36,4 +47,4 @@ If you would like to contribute to the game, you can submit a pull request with 
 
 ## Contact
 
-If you have any questions or comments about the game, please feel free to contact me at [serafimspetrovs@gmail.com.com] or [https://www.linkedin.com/in/serafimp/].
+If you have any questions or comments about the game, please feel free to contact me at [serafimspetrovs@gmail.com](mailto:serafimspetrovs@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/serafimp/).
