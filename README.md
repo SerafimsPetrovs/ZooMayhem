@@ -3,7 +3,11 @@
 
 **ZooMayhem** is a text-based game where you manage a zoo and make decisions about feeding animals, hiring staff, and expanding your zoo. The game is built using C# and runs on the .NET framework.
 
-> **_Note: This game is in the early stages of development. Many bugs are already known, and ongoing work will include adding numerous events, reworking game mechanics, redesigning the interface, and fixing bugs. Expect features to be added and improvements to be made over time._**
+> **Note: This game is in the early stages of development. Many bugs are already known, and ongoing work will include adding numerous events, reworking game mechanics, redesigning the interface, and fixing bugs. Expect features to be added and improvements to be made over time.
+>There are also plans to switch over to the Godot engine.**
+
+>* The main sore spot: if your screen has a non-standard scaling or aspect ratio, try changing the scaling (will be fixed) *
+
 
 ## Getting Started
 
