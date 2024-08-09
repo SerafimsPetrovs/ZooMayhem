@@ -6,7 +6,8 @@
 > **Note: This game is in the early stages of development. Many bugs are already known, and ongoing work will include adding numerous events, reworking game mechanics, redesigning the interface, and fixing bugs. Expect features to be added and improvements to be made over time.
 >There are also plans to switch over to the Godot engine.**
 
->* The main sore spot: if your screen has a non-standard scaling or aspect ratio, try changing the scaling (will be fixed) *
+<span style="color:red;"> The main sore spot: if your screen has a non-standard scaling or aspect ratio, try changing the scaling (will be fixed) </span>
+
 
 
 ## Getting Started
